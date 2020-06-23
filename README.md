@@ -1,3 +1,8 @@
+For new/future TileCutter development please see here: https://github.com/An-dz/tilecutter
+
+
+
+
 TileCutter README
 
 
